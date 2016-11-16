@@ -1,4 +1,4 @@
-Welcome to my GitHub repository. Most of what you'll see on here utilizes the Corona SDK from Ansca Mobile (http://www.anscamobile.com). The following projects are as follows:
+Most of what you'll see on here utilizes the Corona SDK from Ansca Mobile (http://www.anscamobile.com). The following projects are as follows:
 
 * A-Star: An A* pathfinding demo. Details can be found at http://developer.anscamobile.com/code/pathfinding-demo
 
